@@ -1,2 +1,1 @@
-# Miniproject
-MCA mini project
+#electrical
